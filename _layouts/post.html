@@ -44,7 +44,7 @@ script_includes:
         {% if page.image.lqip %}
           {%- capture lqip -%}lqip="{{ page.image.lqip }}"{%- endcapture -%}
         {% endif %}
-
+    
         <div class="mt-3 mb-3">
           <img {{ src }} {{ class }} {{ alt }} w="1200" h="630" {{ lqip }}>
           {%- if page.image.alt -%}
@@ -94,6 +94,10 @@ script_includes:
           <!-- read time -->
           {% include read-time.html content=content prompt=true lang=lang %}
         </div>
+        {% if site.disqus.shortname %}
+          {% include disqus.html %}
+        {% endif %}
+        
       </div>
     </div>
   </header>
