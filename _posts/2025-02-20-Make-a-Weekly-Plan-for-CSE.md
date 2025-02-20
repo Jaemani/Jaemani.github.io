@@ -4,6 +4,7 @@ author: jaeman
 date: 2025-02-20 16:15:00 +0900
 categories: [Blogging, CSE Undergraduate]
 tags: [writing, plan, CSE, ML]
+comments: true
 toc: true
 ---
 
