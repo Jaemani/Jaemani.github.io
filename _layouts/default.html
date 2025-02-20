@@ -83,4 +83,9 @@ layout: compress
 
     {% include_cached search-loader.html lang=lang %}
   </body>
+  <style>
+    div#disqus_thread iframe[sandbox] {
+          max-height: 0px !important;
+    }
+  </style>
 </html>
