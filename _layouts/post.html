@@ -126,9 +126,6 @@ script_includes:
   <div class="content">
     {{ content }}
   </div>
-  {% if site.disqus.shortname %}
-    {% include disqus.html %}
-  {% endif %}
 
   <div class="post-tail-wrapper text-muted">
     <!-- categories -->
@@ -180,9 +177,7 @@ script_includes:
     <!-- .post-tail-bottom -->
   </div>
   <!-- div.post-tail-wrapper -->
-  <style>
-    div#disqus_thread iframe[sandbox] {
-          max-height: 0px !important;
-    }
-  </style>
+  {% if site.disqus.shortname %}
+    {% include disqus.html %}
+  {% endif %}
 </article>
