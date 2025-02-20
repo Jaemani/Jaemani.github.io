@@ -1,10 +1,10 @@
 ---
-title: Made a New Weekly Plan for CSE
+title: Make a Weekly Plan for CSE
 author: Jaeman
 date: 2025-02-20 16:15:00 +0900
 categories: [Blogging, CSE Undergraduate]
 tags: [writing, plan, CSE, ML]
-render_with_liquid: false
+toc: true
 ---
 
 # To follow-up the latest research as an undergraduate student
