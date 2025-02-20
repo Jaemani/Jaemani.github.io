@@ -5,6 +5,7 @@ date: 2025-02-20 16:15:00 +0900
 categories: [Blogging, CSE Undergraduate]
 tags: [writing, plan, CSE, ML]
 toc: true
+comments: true
 ---
 
 # To follow-up the latest research as an undergraduate student
