@@ -3,10 +3,6 @@
 @use '../abstracts/mixins' as mx;
 @use '../abstracts/placeholders';
 
-div#disqus_thread iframe[sandbox] {
-  max-height: 0px !important;
-}
-
 %-btn-post-nav {
   width: 50%;
   position: relative;
