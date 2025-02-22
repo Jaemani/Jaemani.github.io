@@ -2,7 +2,7 @@
 title: Make a Weekly Plan for CSE
 author: jaeman
 date: 2025-02-20 16:15:00 +0900
-categories: [CSE Undergraduate]
+categories: [CSE Undergraduate, plan]
 tags: [plan, CSE, ML, Math]
 toc: true
 ---
