@@ -2,7 +2,7 @@
 title: Make a Weekly Plan for CSE
 author: jaeman
 date: 2025-02-20 16:15:00 +0900
-categories: [CSE Undergraduate, Study]
+categories: [CSE Undergraduate]
 tags: [plan, CSE, ML, Math]
 toc: true
 ---
@@ -11,10 +11,10 @@ toc: true
 Compared to the rapidly advancing technology, I'm still a sophomore in University.\
 I really wanted to know like "How LLM Works?" or "What project can I do with CV?".\
 I couldn't wait until I graduated, because I know even the people working on the field doesn't memorizing every details of academic basis. Bue they use the "Libraries".\
-So I decided to learn some basic core knowledge that I can't learn from lectures.\
+So I decided to learn some basic core knowledge that I can't learn from lectures.
 
 ## Looking for materials
-after long times of googling, I've found out many famous books, papers, lectures.\
+after long times of googling, I've found out many famous books, papers, lectures.
 
 ![image](https://github.com/user-attachments/assets/a9ec598b-1ac2-4359-a0dc-c3df00dc3fea)
 *from paper we love*
@@ -43,3 +43,5 @@ Although he only gave me two month of my plan, but I think it was okay.\
 Before the semester starts, I would try this for few weeks.\
 My Goal is **made a perfect weekly plan** for time-lacking environment.\
 I cannot wait for next feedback.
+
+# Adjusting the plan
