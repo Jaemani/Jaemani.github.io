@@ -1,5 +1,5 @@
 ---
-title: Linear Algebra - Essence of Linear Algebra
+title: Essence of Linear Algebra
 author: jaeman
 date: 2025-02-22 12:22:00 +0900
 categories: [CSE Undergraduate, Linear Algebra]
