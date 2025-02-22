@@ -2,7 +2,7 @@
 title: Chapter 1 Vector Spaces
 author: jaeman
 date: 2025-02-22 12:22:00 +0900
-categories: [CSE Undergraduate, Study, Linear Algebra]
+categories: [CSE Undergraduate, Linear Algebra]
 tags: [CSE, Math, Linear Algebra]
 toc: true
 ---
