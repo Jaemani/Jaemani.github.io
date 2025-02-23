@@ -11,7 +11,7 @@ toc: true
 ## Vector
 list of numbers, point, direction and length.
 ## Linear combinations
-linear combination of two vector $\vec v$ and $\vec w$: (a and b are Scalar)$$a\vec v\ +\ b\vec w$$
+linear combination of two vector $\vec v$ and $\vec w$: (a and b are Scalar)$a\vec v\ +\ b\vec w$
 ## span
 span is the set of all of their linear combinations
 ## Linearly dependent/independent
@@ -19,9 +19,9 @@ if ${\vec v}$ can represented with ${a\vec w}$, ${\vec v}$ and ${\vec w}$ are li
 which means a linear combinations with linearly dependent vector, it doesn't add any span
 
 Linearly dependent $\vec u$ with $\vec v$ and $\vec w$:
-for all values of a and b, $$\vec u=a\vec v\ +\ b\vec w$$
+for all values of a and b, $\vec u=a\vec v\ +\ b\vec w$
 Linearly independent $\vec u$ with $\vec v$ and $\vec w$:
-for all values of a and b, $${\vec u\ \not=\ a\vec v\ +\ b\vec w}$$
+for all values of a and b, ${\vec u\ \not=\ a\vec v\ +\ b\vec w}$
 ## basis
 the base unit of the coordinate system.
 *ex)* we choose to use the \[1,0], \[0,1] as default basis of xy coordinate
