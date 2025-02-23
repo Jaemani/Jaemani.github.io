@@ -6,7 +6,7 @@ categories: [CSE Undergraduate, Plan]
 tags: [Plan, CSE, ML, Mathematics, LLM]
 toc: true
 ---
-# Problems with the previous plan
+## Problems with the previous plan
 Although the plan was good. But while I'm trying to execute it, I've found several realistic problems.
 - **Lack of Math Knowledge(Linear Algebra, Calculus)**\
 so it was hard to understand the formula and explanation.
@@ -18,7 +18,7 @@ The LLMs have gave me very different answer when I change the terms. *(e.g effic
 Even the focus were changing(too shallow, too many resources, out of scope)\
 So I had to fixed my requirements and conditions.
 
-# New method
+## New method
 1. **Ask again with Format, Role, Focusing point, Requirement, My situasion**\
     So I rewrote the prompt mentioning some of their answer.
     ```
@@ -45,12 +45,13 @@ So I had to fixed my requirements and conditions.
    ```
    I asked "only study" because their answer contained community, forum and Master preparation
 
-# Got the Satisfactory grain
+## Got the Satisfactory grain
 for my situation, it was Deepseek>ChatGPT>Grok>Claude\
 also I was very amazed of Deepseek's analytical answers. The quality was pretty high.\
 So, after some of formatting and adjustment. it is done!\
 And I don't think I would change the plan even if I didn't complete it, I would just re-schedule to finish them.
-## Math Plan Table(part of)
+### Math Plan Table(part of)
+
 | **Focus Area** | **Learning Objectives** | **Resources (Books/Papers)** | **Courses/Video Lectures** | **Hands-on Tasks** | **Community/Research Engagement** | **Deliverables/Outputs** |
 |---|---|---|---|---|---|---|
 | Supervised Learning & Optimization | Master ML fundamentals: loss functions, gradients, SGD | PRML (Ch. 1-3); SGD paper (Robbins & Monro, 1951) | CS229 (Supervised Learning) | Implement logistic regression from scratch | Join ML forums (e.g., Reddit r/MachineLearning) | Code + report comparing SGD variants |
@@ -75,7 +76,8 @@ And I don't think I would change the plan even if I didn't complete it, I would 
 | Specialization Elective | Choose: NLP (BERT) or CV (ResNet) | BERT (Devlin et al., 2018) / ResNet (He et al., 2015) | Implement BERT embedding or ResNet block (5 hrs) | Code + performance report |  |  |
 | Portfolio Prep | GitHub, summary document | - | Organize code/docs (3 hrs); Write READMEs (2 hrs) | GitHub repo; 1-page research summary |  |  |
 
-## ML/DL Plan Table
+### ML/DL Plan Table
+
 | **Focus Area** | **Learning Objectives** | **Resources (Books/Papers)** | **Courses/Video Lectures** | **Hands-on Tasks** | **Community/Research Engagement** | **Deliverables/Outputs** |
 |---|---|---|---|---|---|---|
 | Supervised Learning & Optimization | Master ML fundamentals: loss functions, gradients, SGD | PRML (Ch. 1-3); SGD paper (Robbins & Monro, 1951) | CS229 (Supervised Learning) | Implement logistic regression from scratch | Join ML forums (e.g., Reddit r/MachineLearning) | Code + report comparing SGD variants |
