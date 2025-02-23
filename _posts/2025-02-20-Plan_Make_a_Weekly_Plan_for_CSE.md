@@ -1,9 +1,9 @@
 ---
-title: Make a Weekly Plan for CSE
+title: Make a Weekly Plan with LLMs - CSE Sophomore
 author: jaeman
 date: 2025-02-20 16:15:00 +0900
 categories: [CSE Undergraduate, Plan]
-tags: [plan, CSE, ML, Math]
+tags: [Plan, CSE, ML, Mathematics, LLM]
 toc: true
 ---
 
@@ -43,5 +43,3 @@ Although he only gave me two month of my plan, but I think it was okay.\
 Before the semester starts, I would try this for few weeks.\
 My Goal is **made a perfect weekly plan** for time-lacking environment.\
 I cannot wait for next feedback.
-
-# Adjusting the plan
