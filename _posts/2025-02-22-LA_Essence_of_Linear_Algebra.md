@@ -11,7 +11,7 @@ toc: true
 ### Vector
 list of numbers, point, direction and length.
 ### Linear combinations
-linear combination of two vector $\vec v$ and $\vec w$: (a and b are Scalar)$a\vec v\ +\ b\vec w$
+linear combination of two vector $\vec v$ and $\vec w$: (a and b are Scalar) $a\vec v\ +\ b\vec w$
 ### span
 span is the set of all of their linear combinations
 ### Linearly dependent/independent
@@ -32,7 +32,7 @@ the base unit of the coordinate system.
 'Transformation' is same as a function and means it is moved. input->output
 'Linear':
 1. Lines remain lines
-	(all the horizontal, vertical, diagonal lines should not curved
+	(all the horizontal, vertical, diagonal lines should not curved, \
 	Grid lines remain parallel and evenly spaced)
 2. Origin remains fixed
 #### method

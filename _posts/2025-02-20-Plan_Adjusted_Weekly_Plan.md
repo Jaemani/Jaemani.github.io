@@ -2,7 +2,7 @@
 title: Adjusted Weekly Plan(with LLMs) - CSE Sophomore
 author: jaeman
 date: 2025-02-24 05:02:00 +0900
-categories: [CSE Undergraduate, Plan]
+categories: [CSE Undergraduate - Plan]
 tags: [Plan, CSE, ML, Mathematics, LLM]
 toc: true
 ---
