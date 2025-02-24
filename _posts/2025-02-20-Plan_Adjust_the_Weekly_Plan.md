@@ -1,5 +1,5 @@
 ---
-title: Adjusted Weekly Plan(with LLMs) - CSE Sophomore
+title: Adjust the Weekly Plan with LLMs
 author: jaeman
 date: 2025-02-24 05:02:00 +0900
 categories: [CSE Undergraduate, Plan]
@@ -50,31 +50,33 @@ for my situation, it was Deepseek>ChatGPT>Grok>Claude\
 also I was very amazed of Deepseek's analytical answers. The quality was pretty high.\
 So, after some of formatting and adjustment. it is done!\
 And I don't think I would change the plan even if I didn't complete it, I would just re-schedule to finish them.
-### Math Plan Table(part of)
+### Math Plan Table
 
-| **Focus Area**              | **Topics**                                        | **Resources**                                             | **Tasks**                                                                                                | **Deliverables**                                                       |
-| ----------------------- | --------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| Vector Spaces           | Vector spaces, subspaces, linear combinations | Friedberg Ch. 1.1-1.3; 3Blue1Brown Video 1-3          | Watch 3Blue1Brown videos (1 hr); Read Friedberg Ch. 1.1-1.3 (2 hrs); Solve Friedberg Ex. 1.4 (2 hrs) | Notes on vector axioms; Python code for linear combinations        |
-| Linear Transformations  | Linear maps, matrix representations           | Friedberg Ch. 2.1-2.3; MML Ch. 2.7                    | Read Friedberg Ch. 2.1-2.3 (3 hrs); Implement matrix multiplication in NumPy (2 hrs)                 | Code for matrix transformations; Proof of linearity for a map      |
-| Bases & Dimension       | Linear independence, bases, dimension         | Friedberg Ch. 1.5-1.6; MML Ch. 2.5-2.6                | Read Friedberg Ch. 1.5-1.6 (3 hrs); Solve MML Ex. 2.5 (1 hr)                                         | Basis for a dataset (e.g., MNIST pixels); Dimension analysis notes |
-| Eigenvalues             | Eigenvalues, eigenvectors, diagonalization    | Friedberg Ch. 5.1; MML Ch. 4.2                        | Read Friedberg Ch. 5.1 (2 hrs); Compute eigenvalues for 3x3 matrices (2 hrs)                         | Eigenvalue Python script; Notes on PCA motivation                  |
-| SVD & Inner Products    | Inner product spaces, Gram-Schmidt, SVD       | Friedberg Ch. 6.1-6.2, 6.7; MML Ch. 4.5               | Implement SVD in NumPy (3 hrs); Read MML Ch. 4.5 (2 hrs)                                             | Truncated SVD for image compression; Orthogonal basis code         |
-| Probability Basics      | Probability spaces, distributions             | MML Ch. 6.1-6.2; Deep Learning Ch. 3.9                | Read MML Ch. 6.1-6.2 (2 hrs); Simulate Gaussian distributions (1 hr)                                 | Gaussian sampling Python script; Probability axioms summary        |
-| Review & PCA            | Review concepts, PCA introduction             | MML Ch. 10.2; Friedberg Ch. 6.7                       | Summarize week (1 hr); Read MML Ch. 10.2 (1 hr)                                                      | 1-page PCA summary; GitHub repo with code                          |
-| Advanced SVD            | SVD theory, low-rank approximations           | Golub & Van Loan Ch. 2.4; MML Ch. 4.6                 | Read Golub Ch. 2.4 (3 hrs); Optimize SVD code for speed (2 hrs)                                      | Benchmarked SVD code; Notes on numerical stability                 |
-| Gradients & Backprop    | Vector calculus, chain rule                   | MML Ch. 5.2-5.6; CS231n Notes                         | Derive gradients for a neural network (4 hrs); Verify with PyTorch (1 hr)                            | Manual gradient calculations; Autograd verification script         |
-| Optimization            | Gradient descent, Lagrange multipliers        | Boyd & Vandenberghe Ch. 9; MML Ch. 7.1-7.3            | Code gradient descent for linear regression (3 hrs); Read Boyd Ch. 9 (2 hrs)                         | Convergence plot; Lagrange multiplier examples                     |
-| Convexity               | Convex sets, functions, optimization          | Boyd & Vandenberghe Ch. 2-3                           | Prove convexity for SVM loss (2 hrs); Read Boyd Ch. 2 (3 hrs)                                        | Convexity proofs; Notes on SVM objective                           |
-| Probability Deep Dive   | Exponential family, MLE                       | Deep Learning Ch. 3.9-3.12; MML Ch. 6.6               | Implement MLE for Gaussian (2 hrs); Read DL Ch. 3.9 (3 hrs)                                          | MLE Python script; Exponential family summary                      |
-| NLP Math I              | Word embeddings, attention                    | Attention Is All You Need (Vaswani et al., 2017)      | Code self-attention with NumPy (4 hrs); Read Sec. 3.1 (1 hr)                                         | Transformer attention layer; Notes on query-key-value math         |
-| NLP Math II             | Geometric intuition, manifolds                | Word2Vec (Mikolov et al., 2013); MML Ch. 3            | Visualize word vectors with t-SNE (2 hrs); Read Word2Vec Sec. 3 (1 hr)                               | t-SNE visualization code; Analogies via vector math                |
-| CV Math I               | Convolutions, CNNs                            | ImageNet Classification (Krizhevsky et al., 2012)     | Implement Conv2D with NumPy (4 hrs); Read Sec. 2 (1 hr)                                              | Conv layer code; Receptive field analysis                          |
-| CV Math II              | BatchNorm, gradient flow                      | Batch Normalization (Ioffe & Szegedy, 2015)           | Derive BatchNorm gradients (3 hrs); Read Sec. 4.2 (2 hrs)                                            | BatchNorm code; Gradient flow notes                                |
-| Research Paper I        | Reproduce a result                            | Choose paper (e.g., PCA, Adam)                        | Replicate PCA on CIFAR-10 (6 hrs)                                                                    | Jupyter notebook; Comparative analysis                             |
-| Advanced Proofs         | Spectral theorem, Jordan form                 | Friedberg Ch. 6.7, 7.1                                | Study Friedberg proofs (4 hrs); Summarize (1 hr)                                                     | Proof summaries; Applications to kernels                           |
-| Measure Theory          | Probability spaces, Lebesgue integral         | Royden Ch. 2-3                                        | Read Royden Ch. 2 (3 hrs); Solve Ex. 2.5 (2 hrs)                                                     | Measure theory notes; Sigma-algebra examples                       |
-| Specialization Elective | Choose: NLP (BERT) or CV (ResNet)             | BERT (Devlin et al., 2018) / ResNet (He et al., 2015) | Implement BERT embedding or ResNet block (5 hrs)                                                     | Code + performance report                                          |
-| Portfolio Prep          | GitHub, summary document                      | -                                                     | Organize code/docs (3 hrs); Write READMEs (2 hrs)                                                    | GitHub repo; 1-page research summary                               |
+| **Focus Area** | **Topics** | **Resources** | **Tasks** | **Deliverables** | **Research Links** |
+|---|---|---|---|---|---|
+| Vector Spaces | Vector spaces, subspaces, linear combinations | Friedberg Ch. 1.1-1.3; 3Blue1Brown Video 1-3 | Watch 3Blue1Brown videos (1 hr) | Notes on vector axioms | - |
+| Vector Spaces | Vector spaces, subspaces, linear combinations | Friedberg Ch. 1.1-1.3; 3Blue1Brown Video 1-3 | Read Friedberg Ch. 1.1-1.3 (2 hrs); Solve Friedberg Ex. 1.4 (2 hrs); Python code for linear combinations (2 hrs) | Python code for linear combinations | - |
+| Linear Transformations | Linear maps, matrix representations | Friedberg Ch. 2.1-2.3; MML Ch. 2.7 | Read Friedberg Ch. 2.1-2.3 (3 hrs); Implement matrix multiplication in NumPy (2 hrs); Proof of linearity for a map (2 hrs) | Code for matrix transformations; Proof of linearity for a map | - |
+| Bases & Dimension | Linear independence, bases, dimension | Friedberg Ch. 1.5-1.6; MML Ch. 2.5-2.6 | Read Friedberg Ch. 1.5-1.6 (3 hrs); Solve MML Ex. 2.5 (1 hr); Basis for a dataset (e.g., MNIST pixels) (2 hrs) | Basis for a dataset; Dimension analysis notes | - |
+| Eigenvalues | Eigenvalues, eigenvectors, diagonalization | Friedberg Ch. 5.1; MML Ch. 4.2 | Read Friedberg Ch. 5.1 (2 hrs); Compute eigenvalues for 3x3 matrices (2 hrs); Notes on PCA motivation (1 hr) | Eigenvalue Python script; Notes on PCA motivation | Turk & Pentland (1991) - Eigenfaces |
+| SVD & Inner Products | Inner product spaces, Gram-Schmidt, SVD | Friedberg Ch. 6.1-6.2, 6.7; MML Ch. 4.5 | Implement SVD in NumPy (3 hrs); Read MML Ch. 4.5 (2 hrs); Truncated SVD for image compression (1 hr) | Truncated SVD for image compression; Orthogonal basis code | Koren et al. (2009) - SVD in Recommender Systems |
+| Probability Basics | Probability spaces, distributions | MML Ch. 6.1-6.2; Deep Learning Ch. 3.9 | Read MML Ch. 6.1-6.2 (2 hrs) | Gaussian sampling Python script; Probability axioms summary | - |
+| Review & PCA | Review concepts, PCA introduction | MML Ch. 10.2; Friedberg Ch. 6.7 | Summarize week (1 hr) | 1-page PCA summary | - |
+| Advanced SVD | SVD theory, low-rank approximations | Golub & Van Loan Ch. 2.4; MML Ch. 4.6 | Read Golub Ch. 2.4 (3 hrs); Optimize SVD code for speed (2 hrs); Benchmarked SVD code (1 hr) | Benchmarked SVD code; Notes on numerical stability | - |
+| Gradients & Backprop | Vector calculus, chain rule | MML Ch. 5.2-5.6; CS231n Notes | Derive gradients for a neural network (4 hrs); Verify with PyTorch (1 hr); Manual gradient calculations (2 hrs) | Manual gradient calculations; Autograd verification script | - |
+| Optimization | Gradient descent, Lagrange multipliers | Boyd & Vandenberghe Ch. 9; MML Ch. 7.1-7.3 | Code gradient descent for linear regression (3 hrs); Read Boyd Ch. 9 (2 hrs); Convergence plot (1 hr) | Convergence plot; Lagrange multiplier examples | Kingma & Ba (2017) - Adam Optimizer |
+| Convexity | Convex sets, functions, optimization | Boyd & Vandenberghe Ch. 2-3 | Prove convexity for SVM loss (2 hrs); Read Boyd Ch. 2 (3 hrs) | Convexity proofs; Notes on SVM objective | - |
+| Probability Deep Dive | Exponential family, MLE | Deep Learning Ch. 3.9-3.12; MML Ch. 6.6 | Implement MLE for Gaussian (2 hrs); Read DL Ch. 3.9 (3 hrs); Exponential family summary (1 hr) | MLE Python script; Exponential family summary | - |
+| NLP Math I | Word embeddings, attention | Attention Is All You Need (Vaswani et al., 2017) | Code self-attention with NumPy (2 hrs) | Transformer attention layer | Vaswani et al. (2017) - Transformers |
+| NLP Math II | Geometric intuition, manifolds | Word2Vec (Mikolov et al., 2013); MML Ch. 3 | Visualize word vectors with t-SNE (1 hr) | t-SNE visualization code | Mikolov et al. (2013) - Word2Vec |
+| CV Math I | Convolutions, CNNs | ImageNet Classification (Krizhevsky et al., 2012) | Implement Conv2D with NumPy (4 hrs); Read Sec. 2 (1 hr); Receptive field analysis (1 hr) | Conv layer code; Receptive field analysis | Krizhevsky et al. (2012) - AlexNet |
+| CV Math II | BatchNorm, gradient flow | Batch Normalization (Ioffe & Szegedy, 2015) | Derive BatchNorm gradients (3 hrs); Read Sec. 4.2 (2 hrs); Gradient flow notes (2 hrs) | BatchNorm code; Gradient flow notes | Ioffe & Szegedy (2015) - BatchNorm |
+| Research Paper I | Reproduce a result | Choose paper (e.g., PCA, Adam) | Replicate PCA on CIFAR-10 (6 hrs) | Jupyter notebook; Comparative analysis | User-selected paper |
+| Advanced Proofs | Spectral theorem, Jordan form | Friedberg Ch. 6.7, 7.1 | Study Friedberg proofs (4 hrs); Summarize (1 hr) | Proof summaries; Applications to kernels | - |
+| Measure Theory | Probability spaces, Lebesgue integral | Royden Ch. 2-3 | Read Royden Ch. 2 (3 hrs); Solve Ex. 2.5 (2 hrs); Sigma-algebra examples (1 hr) | Measure theory notes; Sigma-algebra examples | - |
+| Specialization Elective | Choose: NLP (BERT) or CV (ResNet) | BERT (Devlin et al., 2018) / ResNet (He et al., 2015) | Implement BERT embedding or ResNet block (2 hrs) | Code + performance report | Devlin et al. (2018) or He et al. (2015) |
+| Portfolio Prep | GitHub, summary document | - | Organize code/docs (1 hr) | GitHub repo | - |
+| Portfolio Prep | GitHub, summary document | - | Write READMEs (2 hrs); Organize code/docs (2 hrs); 1-page research summary (2 hrs) | 1-page research summary | - |
 
 ### ML/DL Plan Table
 
