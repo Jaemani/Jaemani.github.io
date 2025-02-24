@@ -2,7 +2,7 @@
 title:  Essence of Linear Algebra
 author: jaeman
 date: 2025-02-22 19:47:00 +0900
-categories: [CSE Undergraduate - Mathematics, Linear Algebra]
+categories: [Mathematics, Linear Algebra]
 tags: [CSE, Mathematics, Linear Algebra]
 toc: true
 ---

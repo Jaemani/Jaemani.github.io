@@ -2,7 +2,7 @@
 title: Make a Weekly Plan with LLMs
 author: jaeman
 date: 2025-02-20 16:15:00 +0900
-categories: [CSE Undergraduate - Plan]
+categories: [CSE Undergraduate, Plan]
 tags: [Plan, CSE, ML, Mathematics, LLM]
 toc: true
 ---
