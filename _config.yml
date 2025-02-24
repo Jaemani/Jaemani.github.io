@@ -25,8 +25,7 @@ title: "Jaeman's Tech BLOG" # the main title
 
 tagline: / dʑ ɛ m ɑ n / # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
-  a Jaeman's personal blog
+description: Engineering & Technology Blog by Lee Jaeman # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
