@@ -86,20 +86,3 @@ endif %}
     {% include_cached search-loader.html lang=lang %}
   </body>
 </html>
-<script>
-  if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('/auto-reload-clear-cache.js').then(function(reg) {
-      reg.onupdatefound = function() {
-        var installingWorker = reg.installing;
-        installingWorker.onstatechange = function() {
-          if (installingWorker.state === 'installed') {
-            if (navigator.serviceWorker.controller) {
-              // New content is available; refresh the page
-              window.location.reload(true);
-            }
-          }
-        };
-      };
-    });
-  }
-</script>
