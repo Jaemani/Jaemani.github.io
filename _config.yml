@@ -221,6 +221,7 @@ exclude:
   - purgecss.js
   - rollup.config.js
   - "package*.json"
+  - auto-reload-clear-cache.js
 
 jekyll-archives:
   enabled: [categories, tags]
