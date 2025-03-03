@@ -47,7 +47,7 @@ vi ~/.bashrc
 paste the text to the end of file
 
 ```
-alias code='code --no-sandbox'
+alias code 'code --no-sandbox'
 ```
 {:.language-bash}
 
