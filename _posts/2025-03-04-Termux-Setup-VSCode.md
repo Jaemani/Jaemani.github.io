@@ -34,7 +34,7 @@ code --no-sandbox
 
 but since the ```--no-sandbox``` option is not a default, we are not able to open vscode directly by click or command. we have to set it for easy-open.
 
-## Settings for Easy-open VSCode
+## Settings for VSCode
 
 ### Make a command alias
 Open terminal
@@ -58,7 +58,7 @@ source ~/.bshrc
 ```
 {:.language-bash}
 
-## Install a kerying(for Xcfe-4 user, Optional)
+### Install a kerying(for Xcfe-4 user, Optional)
 KDE has the build-in keyring application called ```KWallet```.\
 but xcfe desktop doesn't have any built-in kerying, so we need to install it for VSCode **Sign in**.\
 <br>
@@ -85,7 +85,7 @@ combine with ```--no-sandbox``` option, apply it to the ```.bashrc``` file as de
 
 for me, it happened both of KDE and Xcfe environment. 
 
-## Make a desktop Shortcut
+### Make a desktop Shortcut
 at the desktop.\
 right click -> Create a Launcher\
 fill as below:
