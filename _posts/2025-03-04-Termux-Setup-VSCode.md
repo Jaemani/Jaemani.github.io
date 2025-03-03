@@ -77,7 +77,7 @@ code --password-store="gnome-libsecret"
 {:.language-bash}
 
 combine with ```--no-sandbox``` option, apply it to the ```.bashrc``` file as described above.
-![alt text](Screenshot_2025-03-03_23-47-42.png)
+![Screenshot_2025-03-03_23-47-42](https://github.com/user-attachments/assets/238b6bad-7acf-4c5c-8c47-baa78d0e4031)
 *see line 115*
 
 > While you Signing in with github, you may stuck in the redirection page. if so, click cancel in the VSCode loading block, and let it signin through localhost(it will suggest it when you cancel)
@@ -97,5 +97,5 @@ fill as below:
 It makes a clickable VSCode icon in the desktop
 
 ## Result
-![alt text](Screenshot_2025-03-04_00-38-00.png)
+![Screenshot_2025-03-04_00-38-00](https://github.com/user-attachments/assets/a0dda9f0-ea9a-43ea-b734-d31b97284a1c)
 Now we got a VSCode for Coding! enjoy it :D
