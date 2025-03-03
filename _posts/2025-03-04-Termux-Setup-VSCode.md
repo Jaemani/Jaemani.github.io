@@ -44,7 +44,7 @@ vi ~/.bashrc
 ```
 {:.language-bash}
 ```.zshrc``` for oh-my-zsh user, bash is the default.\
-paste the text to the end of file
+paste the text at the end of lines
 
 ```
 alias code 'code --no-sandbox'
@@ -58,9 +58,10 @@ source ~/.bshrc
 ```
 {:.language-bash}
 
-### Install a kerying(for Xcfe-4 user, Optional)
+### Install kerying(for Xcfe-4 user, Optional)
 KDE has the build-in keyring application called ```KWallet```.\
-but xcfe desktop doesn't have any built-in kerying, so we need to install it for VSCode **Sign in**.\
+but xcfe desktop doesn't have any built-in kerying, so we need to install one for VSCode **Sign in**.\
+I'll use the ```gnome-keyring``` which is VSCode recommended.
 <br>
 Open the terminal
 
@@ -91,7 +92,7 @@ right click -> Create a Launcher\
 fill as below:
 
 - **Name:** VSCode
-- **Command:** bash -c 'code --no-sandbox --password-store="gnome-libsecret"'
+- **Command:** ```bash -c 'code --no-sandbox --password-store="gnome-libsecret"'```
 - **Icon:** double click the empty square to open icon-search box, and type 'code' to find VSCode icon
 
 It makes a clickable VSCode icon in the desktop
