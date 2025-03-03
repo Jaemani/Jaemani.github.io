@@ -13,7 +13,7 @@ toc: true
 - Browser Installed(recommend Firefox)
 
 ## Installation
-Download VSCode from official website: https://code.visualstudio.com/download
+Download VSCode from official website: <https://code.visualstudio.com/download>
 
 > You should download arm-64 version of VSCode for Android Device
 {: .prompt-info }
