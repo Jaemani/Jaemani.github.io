@@ -33,7 +33,7 @@ endif %}
             refactor-content.html content=content lang=lang %} {% else %} {{
             content }} {% endif %}
           </main>
-
+          
           <!-- panel -->
           <aside
             aria-label="Panel"
@@ -41,8 +41,7 @@ endif %}
             class="col-xl-3 ps-2 text-muted"
           >
             <div class="access">
-              {% include_cached update-list.html lang=lang %} {% include_cached
-              trending-tags.html lang=lang %}
+              
             </div>
 
             {% for _include in layout.panel_includes %} {% assign _include_path

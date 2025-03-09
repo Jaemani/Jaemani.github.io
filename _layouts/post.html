@@ -1,11 +1,12 @@
 ---
-layout: default
+layout: default-panel-toc-only
 refactor: true
 panel_includes:
   - toc
 tail_includes:
   - related-posts
   - post-nav
+  - commentbox
 script_includes:
   - comment
 ---
@@ -126,7 +127,6 @@ script_includes:
   <div class="content">
     {{ content }}
   </div>
-
   <div class="post-tail-wrapper text-muted">
     <!-- categories -->
     {% if page.categories.size > 0 %}
@@ -176,5 +176,6 @@ script_includes:
     </div>
     <!-- .post-tail-bottom -->
   </div>
+
   <!-- div.post-tail-wrapper -->
 </article>
