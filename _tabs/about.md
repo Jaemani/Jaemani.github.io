@@ -10,10 +10,8 @@ order: 4
 **Hanyang University**, South Korea
 
 
-leejaeman0227@gmail.com
-</br>
-+82-10-5892-2434
-
+leejaeman0227@gmail.com  
++82-10-5892-2434  
 [GitHub](https://github.com/Jaemani)
 
 ---
@@ -28,10 +26,10 @@ _Expected Graduation: Feb 2027_
 
 ## 💻 Technical Skills
 
-**Languages**: Python, JavaScript, C/C++, Dart</br>
-**Frameworks**:</br>
-&emsp; **Frontend**: Flutter</br>
-&emsp; **Backend**: Node.js, Next.js, Express, Firebase, AWS, GCP</br>
+**Languages**: Python, JavaScript, C/C++, Dart  
+**Frameworks**:  
+&emsp; **Frontend**: Flutter  
+&emsp; **Backend**: Node.js, Next.js, Express, Firebase, AWS, GCP  
 &emsp; **AI/ML**: PyTorch
 
 ---
@@ -49,11 +47,9 @@ _Aug 2024 – Oct 2024_ 🔗 [GitHub Repo](https://github.com/Jaemani/wakeup_app
 - Integrated the optimized YOLOv5n model via **flutter_vision**, balancing accuracy and real-time performance on mobile
 - Implemented geolocation-based risk alerts and real-time event logging using **Firebase (Auth, Firestore, Functions)**
 - Proposed a Gemini-based advisory system for user feedback (under development); designed system for future scalability
-- Collaborated in a 3-member team; used Git, Notion, and GCP for versioning, documentation, and deployment tracking
+- Collaborated in a 3-member team; used Git, Notion, and GCP for versioning, documentation, and deployment tracking  
 
-</br>
-
-### MNIST Regression Project (In Progress)  
+### MNIST Regression Project (In Progress)
 _Apr 2025 – Present_  
 - Implementing a regression model on the **MNIST dataset** using PyTorch  
 - Investigating methods to infer **stroke-centered numerical outputs** instead of classification  
@@ -78,5 +74,5 @@ My goal is to contribute to research that bridges technical depth with tangible 
 ---
 
 ## 🏅 Recognitions
-- 1st Place Project – NIPA - Google Korea ML Bootcamp 2024 (3rd Cohort)  
+- 1st Place Project of NIPA - Google Korea ML Bootcamp 2024 (3rd Cohort)  
 Selected as the top project among final demo teams based on technical depth, completeness, and impact
