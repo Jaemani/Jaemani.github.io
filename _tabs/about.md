@@ -94,5 +94,5 @@ Hosted by Google Korea and NIPA, the bootcamp focused on building deployable AI 
 
 ### 2025  
 
-- 🧾 **XRPL KOREA Blockchain Hackathon:** DE-BUTHON Certificate of COMPLETION
+- 🧾 **XRPL KOREA Blockchain Hackathon DE-BUTHON**
 
