@@ -32,7 +32,7 @@ _Expected Graduation: Feb 2027_
 
 ## 🛠 Projects & Research
 
-### 💤 WakeUp – Real-Time Eye-Closure Detection App (Google ML Project)
+### WakeUp App – Real-Time Eye-Closure Detection App (Google ML Project)
 _Aug 2024 – Oct 2024_
 
 - Developed a mobile drowsiness detection system using **YOLOv5n** deployed on **Flutter**  
@@ -75,6 +75,3 @@ Developed a full-stack ML mobile application as part of the official Google ML B
 ## 🏅 Recognitions
 - 🏅 1st Place Project – NIPA - Google Korea ML Bootcamp 2024 (3rd Cohort)  
 Selected as the top project among final demo teams based on technical depth, completeness, and impact
-
-
----
