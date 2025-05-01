@@ -20,7 +20,7 @@ leejaeman0227@gmail.com
 
 **Hanyang University**, South Korea  
 Bachelor of Science in Computer Science Engineering (Sophomore)  
-_Expected Graduation: Feb 2027_
+_Expected Graduation: Feb 2028_
 
 ---
 
@@ -77,7 +77,7 @@ My goal is to contribute to research that bridges technical depth with tangible 
 
 ### 2018
 
-- **Harvard CS50 X edwith**
+- 🧾 **Harvard CS50 X edwith**
 
 ### 2023
 
