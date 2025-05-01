@@ -73,6 +73,25 @@ My goal is to contribute to research that bridges technical depth with tangible 
 
 ---
 
-## 🏅 Recognitions
-- 1st Place Project of NIPA - Google Korea ML Bootcamp 2024 (3rd Cohort)  
+## 🏅 Recognitions & Certifications
+
+### 2018
+
+- **Harvard CS50 X edwith**
+
+### 2023
+
+- 🧾 **Kakao Enterprise X goorm:** 군 장병 맞춤형 온라인 AI·SW 교육 프로그램 인공지능 중급과정 I
+- 🧾 **Kakao Enterprise X goorm:** 군 장병 맞춤형 온라인 AI·SW 교육 프로그램 인공지능 중급과정 II
+
+### 2024  
+
+- 🧾 **WorldQuant BRAIN Platform:** Quantitative Finance INTERMEDIATE LEVEL
+
+- 🥇 1st Place Project of **NIPA - Google Korea ML Bootcamp 2024 (3rd Cohort)**  
 Selected as the top project among final demo teams based on technical depth, completeness, and impact
+
+### 2025  
+
+- 🧾 **XRPL KOREA Blockchain Hackathon:** DE-BUTHON Certificate of COMPLETION
+
