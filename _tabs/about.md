@@ -33,7 +33,7 @@ _Expected Graduation: Feb 2027_
 ## 🛠 Projects & Research
 
 ### WakeUp App – Real-Time Eye-Closure Detection App (Google ML Project)
-_Aug 2024 – Oct 2024_
+_Aug 2024 – Oct 2024_ 🔗 [GitHub Repo](https://github.com/Jaemani/wakeup_app)
 
 - Developed a mobile drowsiness detection system using **YOLOv5n** deployed on **Flutter**  
 - Designed and executed a full ML pipeline: **data collection, labeling, cleaning, background removal, and augmentation**  
@@ -43,7 +43,6 @@ _Aug 2024 – Oct 2024_
 - Integrated app with **Firebase Auth**, **Cloud Firestore**, and **Cloud Functions** for real-time alert logging and location-based risk detection  
 - Designed system architecture to include **geolocation (accident hotspot)** + **Gemini API (personal feedback)**  
 - Collaborated using GCP and version control; documented results in a structured project repo and Notion workspace
-🔗 [GitHub Repo](https://github.com/Jaemani/wakeup_app)
 
 
 ---
