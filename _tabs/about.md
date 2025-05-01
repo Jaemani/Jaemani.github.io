@@ -88,8 +88,9 @@ My goal is to contribute to research that bridges technical depth with tangible 
 
 - 🧾 **WorldQuant BRAIN Platform:** Quantitative Finance INTERMEDIATE LEVEL
 
-- 🥇 **NIPA - Google Korea ML Bootcamp 2024 (3rd Cohort):** 1st Place Project    
-Selected as the top project among final demo teams based on technical depth, completeness, and impact
+- 🏆 **Google Korea ML Bootcamp (2024, Cohort 3):** 1st Place  
+Selected as the top project among final demo teams, based on technical depth, completeness, and impact  
+Hosted by Google Korea and NIPA, the bootcamp focused on building deployable AI systems for real-world applications.
 
 ### 2025  
 
