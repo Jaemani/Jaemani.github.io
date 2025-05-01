@@ -4,50 +4,56 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# 👤 Jaeman Lee
+# Jaeman Lee
 
 **Undergraduate Student, Department of Computer Science**  
-**Hanyang University**, South Korea  
-📧 leejaeman0227@gmail.com  
-📎 [GitHub](https://github.com/Jaemani)  
-📱 +82-10-1234-5678  
+**Hanyang University**, South Korea
+
+
+leejaeman0227@gmail.com
+</br>
++82-10-5892-2434
+
+[GitHub](https://github.com/Jaemani)
 
 ---
 
 ## 🎓 Education
 
 **Hanyang University**, South Korea  
-Bachelor of Science in Computer Science (Sophomore)  
+Bachelor of Science in Computer Science Engineering (Sophomore)  
 _Expected Graduation: Feb 2027_
 
 ---
 
 ## 💻 Technical Skills
 
-**Languages**: Python, JavaScript, C/C++, Java  
-**Frameworks**: Node.js, Next.js, Express, PyTorch  
-**Tools**: Git, Firebase, Flutter
+**Languages**: Python, JavaScript, C/C++, Dart</br>
+**Frameworks**:</br>
+&emsp; **Frontend**: Flutter</br>
+&emsp; **Backend**: Node.js, Next.js, Express, Firebase, AWS, GCP</br>
+&emsp; **AI/ML**: PyTorch
 
 ---
 
 ## 🛠 Projects & Research
 
-### WakeUp App – Real-Time Eye-Closure Detection App (Google ML Project)
+### WakeUp App – Real-Time Eye-Closure Detection (Google ML Bootcamp 1st Place)
 _Aug 2024 – Oct 2024_ 🔗 [GitHub Repo](https://github.com/Jaemani/wakeup_app)
 
-- Developed a mobile drowsiness detection system using **YOLOv5n** deployed on **Flutter**  
-- Designed and executed a full ML pipeline: **data collection, labeling, cleaning, background removal, and augmentation**  
-- Compared 4 YOLO variants using precision, recall, mAP, and **real-device latency** benchmarks  
-- Selected YOLOv5n for mobile inference via **flutter_vision**, achieving ~96% precision with low latency
-- Optimized detection accuracy from <40% to >99% confidence through multi-stage dataset refinement and model tuning
-- Integrated app with **Firebase Auth**, **Cloud Firestore**, and **Cloud Functions** for real-time alert logging and location-based risk detection  
-- Designed system architecture to include **geolocation (accident hotspot)** + **Gemini API (personal feedback)**  
-- Collaborated using GCP and version control; documented results in a structured project repo and Notion workspace
+- Designed a real-time drowsiness detection system for drivers, deployed on mobile via **Flutter + Firebase**
+- Built an end-to-end ML pipeline: collected raw eye data, removed low-quality/duplicate images, applied background removal and augmentation (~9,200 images)
+- Evaluated and compared 4 models (**YOLOv5n, v5s, v8n, v8s**) for precision, recall, mAP, and **mobile inference latency**
+- Initially explored **EfficientDet-lite**, **OpenCV + CNN**, and **CenterNet**, but ruled them out due to high resource demand and limited mobile compatibility
+- Achieved over **99% detection confidence** (from <40%) after iterative dataset refinement and architectural tuning
+- Integrated the optimized YOLOv5n model via **flutter_vision**, balancing accuracy and real-time performance on mobile
+- Implemented geolocation-based risk alerts and real-time event logging using **Firebase (Auth, Firestore, Functions)**
+- Proposed a Gemini-based advisory system for user feedback (under development); designed system for future scalability
+- Collaborated in a 3-member team; used Git, Notion, and GCP for versioning, documentation, and deployment tracking
 
+</br>
 
----
-
-### 📊 MNIST Regression Project (In Progress)  
+### MNIST Regression Project (In Progress)  
 _Apr 2025 – Present_  
 - Implementing a regression model on the **MNIST dataset** using PyTorch  
 - Investigating methods to infer **stroke-centered numerical outputs** instead of classification  
@@ -57,20 +63,20 @@ _Apr 2025 – Present_
 
 ## 📚 Activities & Engagement
 
-- 🧠 Google ML Bootcamp (2024) – Selected as 3rd Cohort Project Member
-Developed a full-stack ML mobile application as part of the official Google ML Bootcamp project track, from model training to app deployment  
-- 📘 **AAIS Lab Interview, Hanyang University (2025)** – Interviewed for undergraduate research role in ML/AI  
-- 🧪 Regular ML self-study: Kaggle practice (regression, classification, CV), model prototyping
+- **Google ML Bootcamp (2024)** – Selected as 3rd Cohort Project Member
+Developed a full-stack ML mobile application as part of the official Google ML Bootcamp project track, from model training to app deployment 
+- **Regular ML self-study**: Kaggle practice (regression, classification, CV)
 
 ---
 
 ## 🧭 Research Goals
 
-- I am deeply interested in **human-centered AI**, particularly in interaction systems powered by sensing technologies  
-- Long-term, I aim to contribute to **HCI research combining multimodal inputs and real-time ML inference**  
-- I hope to build foundational research experience for graduate study in AI-focused labs
+I’m particularly interested in developing machine learning systems that are not only accurate but also practically applicable—especially in high-impact areas such as accessibility, safety, and health.
+I focus on designing models and interactions together, while optimizing for real-world constraints like deployment, usability, and latency.
+My goal is to contribute to research that bridges technical depth with tangible social impact.
 
+---
 
 ## 🏅 Recognitions
-- 🏅 1st Place Project – NIPA - Google Korea ML Bootcamp 2024 (3rd Cohort)  
+- 1st Place Project – NIPA - Google Korea ML Bootcamp 2024 (3rd Cohort)  
 Selected as the top project among final demo teams based on technical depth, completeness, and impact
