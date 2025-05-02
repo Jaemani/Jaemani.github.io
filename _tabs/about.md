@@ -75,10 +75,6 @@ My goal is to contribute to research that bridges technical depth with tangible 
 
 ## 🏅 Recognitions & Certifications
 
-### 2018
-
-- 🧾 **Harvard CS50 X edwith**
-
 ### 2023
 
 - 🧾 **Kakao Enterprise X goorm:** 군 장병 맞춤형 온라인 AI·SW 교육 프로그램 인공지능 중급과정 I
