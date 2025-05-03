@@ -43,7 +43,7 @@ _Aug 2024 – Oct 2024_ 🔗 [GitHub Repo](https://github.com/Jaemani/wakeup_app
 - Built an end-to-end ML pipeline: collected raw eye data, removed low-quality/duplicate images, applied background removal and augmentation (~9,200 images)
 - Evaluated and compared 4 models (**YOLOv5n, v5s, v8n, v8s**) for precision, recall, mAP, and **mobile inference latency**
 - Initially explored **EfficientDet-lite**, **OpenCV + CNN**, and **CenterNet**, but ruled them out due to high resource demand and limited mobile compatibility
-- Achieved over **99% detection confidence** (from <40%) after iterative dataset refinement and architectural tuning
+- Achieved over **99% detection confidence** in real test (from <40%) after iterative dataset refinement
 - Integrated the optimized YOLOv5n model via **flutter_vision**, balancing accuracy and real-time performance on mobile
 - Implemented geolocation-based risk alerts and real-time event logging using **Firebase (Auth, Firestore, Functions)**
 - Proposed a Gemini-based advisory system for user feedback (under development); designed system for future scalability
