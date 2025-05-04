@@ -36,6 +36,16 @@ _Expected Graduation: Feb 2028_
 
 ## 🛠 Projects & Research
 
+### Hanwoollim Member App - Backend Developer
+_Aug 2024 – Oct 2024_ 🔗 [GitHub Repo](https://github.com/Jaemani/Hanwoollim-Server)
+
+- Independently developed and deployed a production-ready RESTful API server for a university club app.
+- Designed scalable MySQL schemas using Sequelize ORM
+- Implemented secure login and authentication with JWT and Bcrypt.js
+- Deployed on AWS (EC2, RDS) with NGINX for reverse proxy and process management
+- Created clear API documentation for users and admins using SwaggerHub
+
+
 ### WakeUp App – Real-Time Eye-Closure Detection (Google ML Bootcamp 1st Place)
 _Aug 2024 – Oct 2024_ 🔗 [GitHub Repo](https://github.com/Jaemani/wakeup_app)
 
@@ -47,7 +57,7 @@ _Aug 2024 – Oct 2024_ 🔗 [GitHub Repo](https://github.com/Jaemani/wakeup_app
 - Integrated the optimized YOLOv5n model via **flutter_vision**, balancing accuracy and real-time performance on mobile
 - Implemented geolocation-based risk alerts and real-time event logging using **Firebase (Auth, Firestore, Functions)**
 - Proposed a Gemini-based advisory system for user feedback (under development); designed system for future scalability
-- Collaborated in a 3-member team; used Git, Notion, and GCP for versioning, documentation, and deployment tracking  
+- Collaborated in a 3-member team; used Git, Notion, and GCP for versioning, documentation, and deployment tracking
 
 ### MNIST Regression Project (In Progress)
 _Apr 2025 – Present_  
