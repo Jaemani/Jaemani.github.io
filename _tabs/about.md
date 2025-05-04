@@ -37,7 +37,7 @@ _Expected Graduation: Feb 2028_
 ## 🛠 Projects & Research
 
 ### Hanwoollim Member App - Backend Developer
-_Aug 2024 – Oct 2024_ 🔗 [GitHub Repo](https://github.com/Jaemani/Hanwoollim-Server)
+_Jun 2021 – Nov 2021_ 🔗 [GitHub Repo](https://github.com/Jaemani/Hanwoollim-Server)
 
 - Independently developed and deployed a production-ready RESTful API server for a university club app.
 - Designed scalable MySQL schemas using Sequelize ORM
