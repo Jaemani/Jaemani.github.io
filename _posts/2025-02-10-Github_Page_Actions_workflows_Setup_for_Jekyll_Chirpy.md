@@ -24,10 +24,10 @@ You can search ```jekyll``` for the default Jekyll Deployment Workflow Provided 
   
 And it whould gives you a `.yml` workflow file as below
 
-<details>
+<details markdown="1">
 <summary>jekyll-gh-pages.yml</summary>
 
-```
+```yaml
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
@@ -85,10 +85,10 @@ jobs:
   
 But it does not work properly on Chirpy  
 Replace it to
-<details>
+<details markdown="1">
 <summary>pages-deploy.yml</summary>
 
-```
+```yaml
 name: "Build and Deploy"
 on:
   push:
