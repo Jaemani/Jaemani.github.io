@@ -33,7 +33,7 @@ To Achive the goal of Launch MCP on Tablet, I had to find alternatives to replac
 I have saw several MCP Clients in the Github Repo [Awesome MCP Clients](https://github.com/punkpeye/awesome-mcp-clients).  
    
 ![image](https://github.com/user-attachments/assets/cbdfd204-40e9-42d2-9378-46d7c44048eb)  
-<img width="486" alt="Screenshot 2025-05-06 at 16 18 12" src="https://github.com/user-attachments/assets/edd284f8-b101-4f39-9a88-1841c7aa7860" />  *Cline info - Awsome MCP Clients page*  
+<img width="486" alt="Screenshot16 18 12" src="https://github.com/user-attachments/assets/5a4dac54-38ab-4529-8023-0c769670584a" />  *Cline info - Awsome MCP Clients page*  
   
 When I found out the **Cline** is the VSCode extension, I decided to try this guy first. Since I had already installed VSCode and it was very stable enough to I can do my Coding Assignment on my tablet.
   
