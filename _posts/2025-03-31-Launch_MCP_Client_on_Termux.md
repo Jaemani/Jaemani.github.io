@@ -46,7 +46,7 @@ There are also very good materials at Cline Official [Blog](https://cline.bot/bl
 - [Model Selection Guide](https://docs.cline.bot/getting-started/model-selection-guide)
   
 It is very impressive the MCP Client runs on my panel of VSCode!  
-<video width='580' autoplay type="video/mp4" src="https://cline.ghost.io/content/media/2025/03/cline-investigating-cline-1.mp4" />
+<video width='620' autoplay type="video/mp4" src="https://cline.ghost.io/content/media/2025/03/cline-investigating-cline-1.mp4" />  
   
 This post is only about the guide to install MCP Client, so I would not handle about environment setting and project building guide here.  
 I'll post later about MCP itself later. Enjoy your MCP Coding!
