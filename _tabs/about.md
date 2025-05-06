@@ -16,7 +16,7 @@ leejaeman0227@gmail.com
 
 ---
 
-## 🎓 Education
+## Education
 
 **Hanyang University**, South Korea  
 Bachelor of Science in Computer Science Engineering (Sophomore)  
@@ -24,7 +24,7 @@ _Expected Graduation: Feb 2028_
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 **Languages**: Python, JavaScript, C/C++, Dart  
 **Frameworks**:  
@@ -34,7 +34,7 @@ _Expected Graduation: Feb 2028_
 
 ---
 
-## 🛠 Projects & Research
+## Projects & Research
 
 ### Hanwoollim Member App - Backend Developer
 _Jun 2021 – Nov 2021_ 🔗 [GitHub Repo](https://github.com/Jaemani/Hanwoollim-Server)
@@ -79,7 +79,7 @@ _Apr 2025 – May 2025_ 🔗 [Notion Page](https://jaeman.notion.site/MNIST-via-
 
 ---
 
-## 📚 Activities & Engagement
+## Activities & Engagement
 
 - **Google ML Bootcamp (2024)** – Selected as 3rd Cohort Project Member
 Developed a full-stack ML mobile application as part of the official Google ML Bootcamp project track, from model training to app deployment 
@@ -87,7 +87,7 @@ Developed a full-stack ML mobile application as part of the official Google ML B
 
 ---
 
-## 🧭 Research Goals
+## Research Goals
 
 I’m particularly interested in developing machine learning systems that are not only accurate but also practically applicable—especially in high-impact areas such as accessibility, safety, and health.
 I focus on designing models and interactions together, while optimizing for real-world constraints like deployment, usability, and latency.
@@ -95,22 +95,22 @@ My goal is to contribute to research that bridges technical depth with tangible 
 
 ---
 
-## 🏅 Recognitions & Certifications
+## Recognitions & Certifications
 
 ### 2023
 
-- 🧾 **Kakao Enterprise X goorm:** 군 장병 맞춤형 온라인 AI·SW 교육 프로그램 인공지능 중급과정 I
-- 🧾 **Kakao Enterprise X goorm:** 군 장병 맞춤형 온라인 AI·SW 교육 프로그램 인공지능 중급과정 II
+- **Kakao Enterprise X goorm:** 군 장병 맞춤형 온라인 AI·SW 교육 프로그램 인공지능 중급과정 I
+- **Kakao Enterprise X goorm:** 군 장병 맞춤형 온라인 AI·SW 교육 프로그램 인공지능 중급과정 II
 
 ### 2024  
 
-- 🧾 **WorldQuant BRAIN Platform:** Quantitative Finance INTERMEDIATE LEVEL
+- **WorldQuant BRAIN Platform:** Quantitative Finance INTERMEDIATE LEVEL
 
-- 🏆 **Google Korea ML Bootcamp (2024, Cohort 3):** 1st Place  
+- **Google Korea ML Bootcamp (2024, Cohort 3):** 1st Place  
 Selected as the top project among final demo teams, based on technical depth, completeness, and impact  
 Hosted by Google Korea and NIPA, the bootcamp focused on building deployable AI systems for real-world applications.
 
 ### 2025  
 
-- 🧾 **XRPL KOREA Blockchain Hackathon DE-BUTHON**
+- **XRPL KOREA Blockchain Hackathon DE-BUTHON**
 
