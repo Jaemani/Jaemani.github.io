@@ -32,7 +32,7 @@ Maybe one day it would be launched, when proot debian/wine find the new ways to 
 To Achive the goal of Launch MCP on Tablet, I had to find alternatives to replace Claude Desktop.  
 I have saw several MCP Clients in the Github Repo [Awesome MCP Clients](https://github.com/punkpeye/awesome-mcp-clients).  
    
-![image](https://github.com/user-attachments/assets/cbdfd204-40e9-42d2-9378-46d7c44048eb)
+![image](https://github.com/user-attachments/assets/cbdfd204-40e9-42d2-9378-46d7c44048eb)  
 <img width="486" alt="Screenshot 2025-05-06 at 16 18 12" src="https://github.com/user-attachments/assets/edd284f8-b101-4f39-9a88-1841c7aa7860" />  
 
 *Cline info - Awsome MCP Clients page*  
@@ -48,7 +48,7 @@ There are also very good materials at Cline Official [Blog](https://cline.bot/bl
 - [Model Selection Guide](https://docs.cline.bot/getting-started/model-selection-guide)
   
 It is very imporessive the MCP Client runs on my panel of VSCode!  
-<video src="https://cline.ghost.io/content/media/2025/03/cline-investigating-cline-1.mp4" type="video/mp4" />
+<video width='580' src="https://cline.ghost.io/content/media/2025/03/cline-investigating-cline-1.mp4" autoplay type="video/mp4" />
   
 This post is only about the guide to install MCP Client, so I would not handle about environment setting and project building guide here.  
 I'll post later about MCP itself later. Enjoy your MCP Coding!
