@@ -1,5 +1,5 @@
 ---
-title: Github Page Actions workflows Setup for Jekyll Chirpy
+title: Setup for Chirpy Jekyll Page Deployment workflow
 author: jaeman
 date: 2025-02-10 05:02:00 +0900
 categories: [Github Blog]
