@@ -2,7 +2,7 @@
 title: Github Page Actions workflows Setup for Jekyll Chirpy
 author: jaeman
 date: 2025-02-10 05:02:00 +0900
-categories: [CSE Undergraduate, Plan]
+categories: [Github Blog]
 tags: [Chirpy, Jekyll, Github Page, Github Actions, workflows]
 toc: true
 ---
