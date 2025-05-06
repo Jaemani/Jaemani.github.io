@@ -45,8 +45,7 @@ _Jun 2021 – Nov 2021_ 🔗 [GitHub Repo](https://github.com/Jaemani/Hanwoollim
 - Deployed on AWS (EC2, RDS) with NGINX for reverse proxy and process management
 - Created clear API documentation for users and admins using SwaggerHub
 
-
-### WakeUp App – Real-Time Eye-Closure Detection (Google ML Bootcamp 1st Place)
+### WakeUp App – Real-Time Eye-Closure Detection *(Google ML Bootcamp 1st Place)*
 _Aug 2024 – Oct 2024_ 🔗 [GitHub Repo](https://github.com/Jaemani/wakeup_app)
 
 - Designed a real-time drowsiness detection system for drivers, deployed on mobile via **Flutter + Firebase**
@@ -57,10 +56,9 @@ _Aug 2024 – Oct 2024_ 🔗 [GitHub Repo](https://github.com/Jaemani/wakeup_app
 - Integrated the optimized YOLOv5n model via **flutter_vision**, balancing accuracy and real-time performance on mobile
 - Implemented geolocation-based risk alerts and real-time event logging using **Firebase (Auth, Firestore, Functions)**
 - Proposed a Gemini-based advisory system for user feedback (under development); designed system for future scalability
-- Collaborated in a 3-member team; used Git, Notion, and GCP for versioning, documentation, and deployment tracking
 
 ### 수리수리 마수리 – Repair History System for Mobility Devices - Backend Developer
-_Apr 2025 – Ongoing_ 🔗 Github Repo [Backend](https://github.com/Jaemani/power_assist_device_helper_backend/tree/main),[Frontend](https://github.com/oikkoikk/soo-ri
+_Apr 2025 – Present_ 🔗 Github Repo [Backend](https://github.com/Jaemani/power_assist_device_helper_backend/tree/main),[Frontend](https://github.com/oikkoikk/soo-ri
 ) / [Notion](https://jaeman-hyu.notion.site/1c4ec4b6449b80bca4f2d6413eb7e8ef?pvs=4)  
 
 - Developed as part of [Tech for Impact](https://techforimpact.io/) Campus, a social tech prototyping initiative by Kakao Impact, connecting universities and impact-driven organizations
@@ -69,13 +67,23 @@ _Apr 2025 – Ongoing_ 🔗 Github Repo [Backend](https://github.com/Jaemani/pow
 - Led infrastructure setup and system integration
 - Planned integration with [별따러가자](https://starpickers.imweb.me/), an AIoT-based accident detection company, to connect repair history with real-world incident data
 
-### MNIST via Regression instead of Classification (Ready for Presentationing in progress)
+### MNIST via Regression instead of Classification *(Preparing to presentation)*
 _Apr 2025 – May 2025_ 🔗 [Notion Page](https://jaeman.notion.site/MNIST-via-Regression-1e95d7580ec180abaee4e429b7bb93bf?pvs=73)
 
 - Designed image regression models using TensorFlow/Keras, exploring both MLP and CNN-based architectures
 - Framed MNIST digit recognition as a regression task predicting continuous numerical values, not discrete classes
 - Achieved strong performance with MSE = 0.41 (MLP) and MSE = 0.12 (CNN); rounded prediction accuracy reached 95.1% and 98.2% respectively
 - Analyzed how spatial feature extraction prior to flattening (CNN) significantly reduced error compared to raw-pixel regression (MLP)
+
+### XRP Payment SDK Development for Web and Mobile Platforms *(in progress)*  
+_Apr 2025 – Present_  
+*Developed as part of a university–industry collaboration between HYBLOCK (Hanyang University Blockchain Society) and XRPL Korea, aiming to prototype secure and developer-friendly XRP payment integration modules.*
+
+- Leading SDK design for a plug-and-play XRP payment module, modeled after commercial solutions (e.g., Toss Payments), using the Xaman platform
+- Implementing secure sign-request lifecycle based on XRPL payloads for point-of-sale use cases
+- Delivering frontend integration examples and developer documentation for partner adoption (e.g., Uniport platform)
+- Acting as liaison between HYBLOCK and XRPL Korea to align use cases, technical constraints, and deployment roadmap
+
 
 ---
 
