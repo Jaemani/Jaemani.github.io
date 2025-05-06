@@ -59,11 +59,22 @@ _Aug 2024 – Oct 2024_ 🔗 [GitHub Repo](https://github.com/Jaemani/wakeup_app
 - Proposed a Gemini-based advisory system for user feedback (under development); designed system for future scalability
 - Collaborated in a 3-member team; used Git, Notion, and GCP for versioning, documentation, and deployment tracking
 
-### MNIST Regression Project (In Progress)
-_Apr 2025 – Present_  
-- Implementing a regression model on the **MNIST dataset** using PyTorch  
-- Investigating methods to infer **stroke-centered numerical outputs** instead of classification  
-- Focused on evaluating loss behavior in continuous-valued output learning  
+### 수리수리 마수리 – Repair History System for Mobility Devices - Backend Developer
+_Apr 2025 – Ongoing_ 🔗 Github Repo [Backend](https://github.com/Jaemani/power_assist_device_helper_backend/tree/main) [Frontend](https://github.com/oikkoikk/soo-ri
+) / [Notion](https://jaeman-hyu.notion.site/1c4ec4b6449b80bca4f2d6413eb7e8ef?pvs=4)  
+
+- Developed as part of Tech for Impact Campus, a social tech prototyping initiative by Kakao Impact, connecting universities and impact-driven organizations
+- QR-based repair history platform for electric mobility devices, in collaboration with a local welfare center.
+- Developed key backend modules using Next.js, Firebase Auth, and MongoDB, enabling role-based access and real-time repair tracking
+- Led infrastructure setup and system integration; designed for future linkage with accident monitoring system (별따러가자)
+
+### MNIST via Regression instead of Classification (Ready for Presentationing in progress)
+_Apr 2025 – May 2025_ 🔗 [Notion Page](https://jaeman.notion.site/MNIST-via-Regression-1e95d7580ec180abaee4e429b7bb93bf?pvs=73)
+
+- Designed image regression models using TensorFlow/Keras, exploring both MLP and CNN-based architectures
+- Framed MNIST digit recognition as a regression task predicting continuous numerical values, not discrete classes
+- Achieved strong performance with MSE = 0.41 (MLP) and MSE = 0.12 (CNN); rounded prediction accuracy reached 95.1% and 98.2% respectively
+- Analyzed how spatial feature extraction prior to flattening (CNN) significantly reduced error compared to raw-pixel regression (MLP)
 
 ---
 
