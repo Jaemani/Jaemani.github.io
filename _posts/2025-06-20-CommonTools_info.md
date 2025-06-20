@@ -1,7 +1,7 @@
 ---
 title: info
 author: jaeman
-date: 2025-02-22 12:22:00 +0900
+date: 2025-06-20 22:08:00 +0900
 categories: [Mathematics, Common Tools]
 tags: [CS, Mathematics, Common Tools]
 toc: true
