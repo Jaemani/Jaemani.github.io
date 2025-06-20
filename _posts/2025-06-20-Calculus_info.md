@@ -1,5 +1,5 @@
 ---
-title:  info
+title: info
 author: jaeman
 date: 2025-02-22 12:22:00 +0900
 categories: [Mathematics, Calculus]
