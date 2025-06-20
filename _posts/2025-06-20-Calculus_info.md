@@ -1,7 +1,7 @@
 ---
 title: info
 author: jaeman
-date: 2025-06-20 12:22:08 +0900
+date: 2025-06-20 22:08:00 +0900
 categories: [Mathematics, Calculus]
 tags: [CS, Mathematics, Calculus]
 toc: true
