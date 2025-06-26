@@ -28,7 +28,7 @@ _Expected Graduation: Feb 2028_
 
 **Languages**: Python, JavaScript, C/C++, Dart  
 **Frameworks**:  
-&emsp; **Frontend**: Flutter  
+&emsp; **Frontend**: Flutter, React  
 &emsp; **Backend**: Node.js, Next.js, Express, Firebase, AWS, GCP  
 &emsp; **AI/ML**: PyTorch
 
@@ -45,7 +45,7 @@ _Jun 2021 – Nov 2021_ 🔗 [GitHub Repo](https://github.com/Jaemani/Hanwoollim
 - Deployed on AWS (EC2, RDS) with NGINX for reverse proxy and process management
 - Created clear API documentation for users and admins using SwaggerHub
 
-### WakeUp App – Real-Time Eye-Closure Detection *(Google ML Bootcamp 1st Place)*
+### WakeUp App – Real-Time Eye-Closure Detection *(1st Place, Google ML Bootcamp)*
 _Aug 2024 – Oct 2024_ 🔗 [GitHub Repo](https://github.com/Jaemani/wakeup_app)
 
 - Designed a real-time drowsiness detection system for drivers, deployed on mobile via Flutter + Firebase
@@ -57,9 +57,8 @@ _Aug 2024 – Oct 2024_ 🔗 [GitHub Repo](https://github.com/Jaemani/wakeup_app
 - Implemented geolocation-based risk alerts and real-time event logging using Firebase (Auth, Firestore, Functions)
 - Proposed a Gemini-based advisory system for user feedback (under development); designed system for future scalability
 
-### 수리수리 마수리 – Repair History System for Mobility Devices - Backend Developer
-_Apr 2025 – Present_ 🔗 Github Repo [Backend](https://github.com/Jaemani/power_assist_device_helper_backend/tree/main),[Frontend](https://github.com/oikkoikk/soo-ri
-) / [Notion](https://jaeman-hyu.notion.site/1c4ec4b6449b80bca4f2d6413eb7e8ef?pvs=4)  
+### 수리수리 마수리 – Repair History System for Mobility Devices - Backend Developer *(Social Value Award, Kakao Impact Tech for Impact Program)*
+_Mar 2025 – Jul 2025_ 🔗 [Github Repo](https://github.com/techforimpact-archive/TFI_CAMPUS_HANYANG_25Spring_Soori-soori) / [Notion](https://jaeman-hyu.notion.site/1c4ec4b6449b80bca4f2d6413eb7e8ef?pvs=4)  
 *Developed as part of [Tech for Impact](https://techforimpact.io/) Campus, a university–impact organization collaboration program by Kakao Impacts*  
 
 - QR-based repair history platform for electric mobility devices, in collaboration with a local welfare center.
@@ -67,12 +66,11 @@ _Apr 2025 – Present_ 🔗 Github Repo [Backend](https://github.com/Jaemani/pow
 - Led infrastructure setup and system integration
 - Planned integration with [별따러가자](https://starpickers.imweb.me/), an AIoT-based accident detection company, to connect repair history with real-world incident data
 
-### Regression-Based MNIST Digit Prediction *(Exploratory Study, Preparing for presentation)*
+### Regression-Based MNIST Digit Prediction *(Exploratory Study)*
 _Apr 2025 – May 2025_ 🔗 [Notion Page](https://jaeman.notion.site/MNIST-via-Regression-1e95d7580ec180abaee4e429b7bb93bf?pvs=73)
 
 - Designed image regression models using TensorFlow/Keras, exploring both MLP and CNN-based architectures
 - Framed MNIST digit recognition as a regression task predicting continuous numerical values, not discrete classes
-- Achieved strong performance with MSE = 0.41 (MLP) and MSE = 0.12 (CNN); rounded prediction accuracy reached 95.1% and 98.2% respectively
 - Analyzed how spatial feature extraction prior to flattening (CNN) significantly reduced error compared to raw-pixel regression (MLP)
 
 ### XRP Payment SDK Development for Web and Mobile Platforms *(in progress)*  
@@ -83,6 +81,15 @@ _Apr 2025 – Present_
 - Implementing secure sign-request lifecycle based on XRPL payloads for point-of-sale use cases
 - Delivering frontend integration examples and developer documentation for partner adoption (e.g., Uniport platform)
 - Participating in weekly sync meetings between HYBLOCK and XRPL Korea to share progress and align technical direction
+
+### SK AI Dream Camp *(on going)*
+_Jul 2025 - Aug 2025_
+
+- Participating in systematic AI/ML training program with real-world datasets from SK Group companies (SK Hynix, SK Telecom)
+- Conducting comprehensive projects focused on building modeling and analysis capabilities through hands-on experience
+- Telecom ICT Infrastructure Project: Performing EDA on base station equipment performance statistics and developing anomaly detection models for ICT infrastructure fault identification using time-series machine learning techniques
+- Semiconductor Process Optimization: Developing machine learning prediction models using SK Hynix semiconductor process data, specifically creating package test result prediction models leveraging Photo (lithography) process indicators
+- Gaining expertise in exploratory data analysis (EDA), time-series anomaly detection, and predictive modeling for industrial applications
 
 ---
 
@@ -125,4 +132,4 @@ Hosted by Google Korea and NIPA, the bootcamp focused on building deployable AI 
 ### 2025  
 
 - **XRPL KOREA Blockchain Hackathon DE-BUTHON**
-
+- **Kakao Impact Tech for Impact**: Social Value Reward
