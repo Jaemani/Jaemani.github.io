@@ -63,7 +63,7 @@ _2024 8월 – 2024 10월_ 🔗 [GitHub Repo](https://github.com/Jaemani/wakeup_
 - 실시간 졸음감지 시스템을 개발하고 Flutter + Firebase를 활용하여 모바일 배포
 - end-to-end ML 파이프라인 구축: 눈 이미지 수집, 저화질 이미지 제거, 배경제거 및 augmentation(9,200장의 이미지)
 - precision, recall, mAP와 모바일 딜레이 성능지표을 위해 4가지 모델 평가 및 비교(YOLOv5n, v5s, v8n, v8s)
-- 초기에 EfficientDet-lite**, OpenCV + CNN, and CenterNet을 탐색했으나 높은 리소스 사용과 확장성 문제로 기각
+- 초기에 EfficientDet-lite, OpenCV + CNN, and CenterNet으로 탐색했으나 높은 리소스 사용과 확장성 문제로 기각
 - 데이터 전처리과 모델 튜닝을 통해 탐지 신뢰도를 40%에서 99%까지 끌어올림
 - 모바일에서 실시간 작동과 정확도에 최적화된 flutter_vision과 YOLOv5n 모델을 채택
 - 지리좌표 기반으로 위험경고를 하고 Firestore에 로그하는 기능 구현
