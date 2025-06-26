@@ -45,6 +45,19 @@ _Jun 2021 – Nov 2021_ 🔗 [GitHub Repo](https://github.com/Jaemani/Hanwoollim
 - Deployed on AWS (EC2, RDS) with NGINX for reverse proxy and process management
 - Created clear API documentation for users and admins using SwaggerHub
 
+### WorldQuant Summer Bootcamp – Quantitative Alpha Factor Development
+_Jul 2024 – Aug 2024_ 🔗 [Presentation](https://drive.google.com/file/d/1LUGGo68bG_dL4U_X9qY-90_mbCCLKJF7/view?usp=sharing)
+
+- Developed a human-machine hybrid alpha factor development and optimization system for global markets
+Built proprietary scoring algorithm through analysis of 30,750 alpha data points: derived evaluation formula based on Turnover, Returns, and Drawdown metrics via regression analysis of 3,081 high-performance alphas (Sharpe ≥ 1)
+- Designed and implemented 4 alpha templates: deep learning prediction-based recession response alpha, MACD-based institutional movement detection alpha, option volatility-based alpha, and Williams %R overbought/oversold detection alpha
+- Implemented efficient parameter exploration using TF-IDF-based datafield clustering to maximize variance while minimizing parameter count
+- Built automated simulation pipeline using WorldQuant Brain API and ACE Library: progressed through 4 development stages from manual parameter tuning → API automation → clustering optimization → alpha mixing
+- Validated model stability through VIF (Variance Inflation Factor) testing for multicollinearity (VIF < 1.13)
+- Achieved best performance of 8.4‱ margin and 2.34 fitness score through alpha mixing ensemble models (30% improvement over basic vs. advanced/mixing)
+- Implemented robustness validation through hyperparameter sweeping and alpha segmentation testing to prevent overfitting and ensure generalization
+- Analyzed global risk management and portfolio diversification effects through Country Neutralization strategies
+
 ### WakeUp App – Real-Time Eye-Closure Detection *(1st Place, Google ML Bootcamp)*
 _Aug 2024 – Oct 2024_ 🔗 [GitHub Repo](https://github.com/Jaemani/wakeup_app)
 
@@ -58,7 +71,7 @@ _Aug 2024 – Oct 2024_ 🔗 [GitHub Repo](https://github.com/Jaemani/wakeup_app
 - Proposed a Gemini-based advisory system for user feedback (under development); designed system for future scalability
 
 ### 수리수리 마수리 – Repair History System for Mobility Devices - Backend Developer *(Social Value Award, Kakao Impact Tech for Impact Program)*
-_Mar 2025 – Jul 2025_ 🔗 [Github Repo](https://github.com/techforimpact-archive/TFI_CAMPUS_HANYANG_25Spring_Soori-soori) / [Notion](https://jaeman-hyu.notion.site/1c4ec4b6449b80bca4f2d6413eb7e8ef?pvs=4)  
+_Mar 2025 – Jun 2025_ 🔗 [Github Repo](https://github.com/techforimpact-archive/TFI_CAMPUS_HANYANG_25Spring_Soori-soori) / [Notion](https://jaeman-hyu.notion.site/1c4ec4b6449b80bca4f2d6413eb7e8ef?pvs=4)  
 *Developed as part of [Tech for Impact](https://techforimpact.io/) Campus, a university–impact organization collaboration program by Kakao Impacts*  
 
 - QR-based repair history platform for electric mobility devices, in collaboration with a local welfare center.
