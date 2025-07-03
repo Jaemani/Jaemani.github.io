@@ -18,5 +18,18 @@ toc: true
 
 ### 2. Design Experiment
 
+- Dataset  
+OpenSource?
+- Algorithm/Model  
+- Evaluation metrics
+
+
 ## Research Idea
 
+### 1. Fleshing out the Questions
+
+#### Is Real-time generating Depth map possible on Meta Quest 2 passthrough camera?
+
+#### What is the difference between previous research?
+
+#### What is the expected Result?
