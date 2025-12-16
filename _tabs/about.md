@@ -86,8 +86,8 @@ _Apr 2025 – May 2025_ 🔗 [Notion Page](https://jaeman.notion.site/MNIST-via-
 - Framed MNIST digit recognition as a regression task predicting continuous numerical values, not discrete classes
 - Analyzed how spatial feature extraction prior to flattening (CNN) significantly reduced error compared to raw-pixel regression (MLP)
 
-### XRP Payment SDK Development for Web and Mobile Platforms *(in progress)*  
-_Apr 2025 – Present_  
+### XRP Payment SDK Development for Web and Mobile Platforms
+_Apr 2025 – June 2025_  
 *Part of a university–industry collaboration between HYBLOCK (Hanyang University Blockchain Society) and [XRPL Korea](https://www.xrplkorea.org/).*  
 
 - Leading SDK design for a plug-and-play XRP payment module, modeled after commercial solutions (e.g., Toss Payments), using the Xaman platform
@@ -95,7 +95,7 @@ _Apr 2025 – Present_
 - Delivering frontend integration examples and developer documentation for partner adoption (e.g., Uniport platform)
 - Participating in weekly sync meetings between HYBLOCK and XRPL Korea to share progress and align technical direction
 
-### SK AI Dream Camp *(on going)*
+### SK AI Dream Camp
 _Jul 2025 - Aug 2025_
 
 - Participating in systematic AI/ML training program with real-world datasets from SK Group companies (SK Hynix, SK Telecom)
@@ -138,7 +138,7 @@ My goal is to contribute to research that bridges technical depth with tangible 
 
 - **WorldQuant BRAIN Platform:** Quantitative Finance INTERMEDIATE LEVEL
 
-- **Google Korea ML Bootcamp (2024, Cohort 3):** 1st Place  
+- **Google Korea ML Bootcamp (2024, Cohort 3):** Grand Prize(1st Place)  
 Selected as the top project among final demo teams, based on technical depth, completeness, and impact  
 Hosted by Google Korea and NIPA, the bootcamp focused on building deployable AI systems for real-world applications.
 
@@ -146,3 +146,4 @@ Hosted by Google Korea and NIPA, the bootcamp focused on building deployable AI 
 
 - **XRPL KOREA Blockchain Hackathon DE-BUTHON**
 - **Kakao Impact Tech for Impact**: Social Value Reward
+- **Sui-mming Hackathon 2025**: 2nd Place
