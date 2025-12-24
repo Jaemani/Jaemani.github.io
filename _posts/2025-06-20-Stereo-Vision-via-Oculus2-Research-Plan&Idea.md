@@ -2,8 +2,14 @@
 title: Research Plan & Idea
 author: jaeman
 date: 2025-06-20 17:38:00 +0900
-categories: [CV Research, Stereo Vision via Oculus2]
-tags: [CV, Oculus, StereoVision, DL]
+categories:
+  - CV Research
+  - Stereo Vision via Oculus2
+tags:
+  - CV
+  - Oculus
+  - StereoVision
+  - DL
 toc: true
 ---
 
