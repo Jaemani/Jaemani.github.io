@@ -2,8 +2,8 @@
 title: Fix NextJs 'prerendering page "/404"', 'error for page /_error', '<Html> shouhld not be imported outside of page/_document' Error
 author: jaeman
 date: 2025-12-25 04:23:00 +0900
-categories:
-tags:
+categories: Development, NextJs
+tags: NextJs, React
 toc: true
 ---
 ## The Error Occurred
@@ -16,6 +16,7 @@ toc: true
 @clinic/api:build: Error: <Html> should not be imported outside of pages/_document.
 @clinic/api:build: Read more: https://nextjs.org/docs/messages/no-document-import-in-page
 ```
+<img width="314" height="416" alt="Screenshot 2025-12-25 042810" src="https://github.com/user-attachments/assets/9344301b-08dd-4bee-99b7-cc5e324e763a" />
 
 error was occurred while running `next build`  (this is a bit strange it didn't occurred before)
 I thought it was  because of patching 
