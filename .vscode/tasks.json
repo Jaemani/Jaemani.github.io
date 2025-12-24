@@ -59,6 +59,7 @@
         "kind": "build"
       },
       "detail": "Runs both the Jekyll server with live reload and build JS files in watch mode."
+
     }
   ]
 }

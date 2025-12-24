@@ -1,12 +1,5 @@
 # The Site Configuration
 
-# Math equation
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
 # Import the theme
 theme: jekyll-theme-chirpy
 
@@ -17,6 +10,7 @@ lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: Asia/Seoul
+# Change to your timezone › https://zones.arilyn.cc
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -36,6 +30,7 @@ github:
 
 twitter:
   username: jaeman_227 # change to your Twitter username
+
 
 social:
   # Change to your full name.
@@ -106,6 +101,7 @@ theme_mode: # [light | dark]
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "./assets/img/favicons/android-chrome-512x512.png"
+cdn:
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -223,6 +219,9 @@ exclude:
   - rollup.config.js
   - "package*.json"
   - auto-reload-clear-cache.js
+  - "*.config.js"
+  - "package*.json"
+
 
 jekyll-archives:
   enabled: [categories, tags]
