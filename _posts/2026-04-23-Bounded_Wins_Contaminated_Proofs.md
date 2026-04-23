@@ -1,5 +1,5 @@
 ---
-title: Bounded Wins, Contaminated Proofs: What My Local Agent Harness Actually Proved
+title: "Bounded Wins, Contaminated Proofs: What My Local Agent Harness Actually Proved"
 subtitle: An interim engineering report on local repair loops, bounded product gaps, and why fresh autonomous product-making remains unproven.
 author: jaeman
 date: 2026-04-23 18:04:00 +0900
@@ -7,7 +7,6 @@ categories: [AI Agent Engineering, LLM Systems]
 tags: [Chirpy, Jekyll, Github Page, Github Actions, workflows]
 toc: true
 ---
-
 ## Opening
 
 For several weeks, I worked on a harness that would let a local model participate in software delivery without pretending that the model was perfect. The target was not a one-off app generator. The target was a reusable control system: a planner and reviewer define bounded work, a local model writes code, deterministic gates verify the result, and stronger models or deterministic scripts intervene only at clearly defined boundaries.
