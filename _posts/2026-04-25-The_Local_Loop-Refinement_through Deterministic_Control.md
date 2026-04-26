@@ -13,6 +13,13 @@ After grinding through the first two parts of this series, I hit a hard truth: i
 
 I’m currently focusing on three engineering pillars to move away from "contaminated proofs" and toward something actually predictable.
 
+## The Interconnected Machine
+These three pillars are not just parallel features; they are a functional loop for the harness itself:
+
+1.  **Quantitative Forensics** identifies that a high percentage of our failures are trivial syntax or format errors.
+2.  This data justifies the investment in **ACI Healing**, which automatically fixes those typos to preserve reasoning budget.
+3.  With syntax noise removed, the reasoning budget is freed up, allowing **Rule-Based Recovery** to focus on catching complex "logic loops" in real-time.
+
 ## 1. Rule-Based Recovery (Event-Driven Hooks)
 
 Most systems today just use passive timeouts—if the model hangs, you wait 60 seconds and kill it. That's slow and annoying.
@@ -40,6 +47,6 @@ By measuring these, I can actually see progress. Instead of just "feeling" like 
 
 ## Building the Predictable Machine
 
-The goal of the Local Loop is to build a machine that is 100% predictable, even when its core (the LLM) is not. By using these recovery hooks, healing the interface, and tracking forensics, I’m trying to move from "experimenting" to real "engineering."
+The goal of the Local Loop is to build a machine that is 100% predictable, even when its core (the LLM) is not. We are moving from a world of "AI experiments" to a world of **Agentic Engineering**.
 
-We don't need to wait for AGI. We just need to build the harness that’s ready for it.
+We don't need to wait for a "perfect" model to arrive. By building a harness that treats LLMs as fallible components, we are creating the engineering foundation required to make any model—local or cloud—truly useful in production

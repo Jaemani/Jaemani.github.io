@@ -47,11 +47,12 @@ This run failed, but the failure was entangled with harness issues:
 > This is a harness-quality failure, not necessarily a model-capability failure. It means the system isn't clean enough yet to make a final judgment on local models.
 {: .prompt-warning }
 
-## Next Steps: Protocol Hardening
-I need to stop making capability claims and start "decontaminating." 
-1. **Separate Modes:** Clear line between Diagnostic (recovery allowed) and Certification (strict stopping).
-2. **Freeze Evidence:** Every run must be tied to a specific harness commit and config snapshot.
-3. **Certify Contracts:** The template and the gate must be proven to match *before* the coder starts.
+## Next Steps: Why Protocol Hardening Matters
+I need to stop making capability claims and start "decontaminating."
+
+1. **Separate Modes (Diagnostic vs. Certification):** We need a clear line. Diagnostic mode allows for "fail-open" recovery to see how far the model can go. Certification mode requires strict, one-shot stopping rules. This prevents us from citing a "lucky" recovery as a "reliable" capability.
+2. **Freeze Evidence (Run-to-Code Freeze):** Every run must be tied to a specific harness commit. If the harness changes daily, we can't tell if a success was due to a better model or just a change in a script.
+3. **Certify Contracts (Template/Gate Parity):** We must prove the template (scaffold) and the gate (validator) match *before* the coder starts. This ensures the model isn't set up to fail by a system-level mismatch.
 
 ---
 
