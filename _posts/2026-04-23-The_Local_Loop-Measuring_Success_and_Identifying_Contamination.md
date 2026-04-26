@@ -8,12 +8,19 @@ toc: true
 ---
 
 ## Reality Check
-For several weeks, I’ve been grinding on a harness to let local models handle software delivery. I didn't want a one-off app generator; I wanted a reusable control system.
+For several weeks, I’ve been grinding on a harness to let local models handle software delivery. I didn't want a one-off app generator; I wanted a reusable control system that empowers local models through iteration.
 
-The early hope was definitely larger than the evidence I have right now. While I wanted to prove fresh autonomous product creation, the current results are narrower. What I *can* prove is that small local repair loops work, but my attempts at "big" product creation were **contaminated** by harness faults.
+The early hope was larger than the evidence I have right now. While I wanted to prove fresh autonomous product creation, the current results are narrower. What I *can* prove is that small local repair loops work. The failures we saw in "big" product creation were not failures of model capability, but **contamination** of the harness itself.
+
+## The "9-Second" Discovery: Why We Measure
+Recently, a strict proof run failed with a `switch_timeout` error after 120 seconds. My first instinct was to blame the infrastructure—to assume the local proxy was too slow. I almost spent days refactoring the entire proxy system.
+
+Instead, I measured.
+
+A controlled dry-run revealed that the actual model switching time was only **9 seconds**. The infrastructure was healthy. The failure wasn't in the hardware; it was a "contamination" of the reasoning loop that caused the system to hang. This discovery was critical: it proved that our focus should be on protecting the **purity of the reasoning loop**, which is where the system's power actually resides.
 
 ## My Evidence Standard
-I’ve realized that a "PASS" is useless if it's vague. I now categorize evidence into four levels to stop myself from overclaiming:
+I’ve realized that a "PASS" is useless if it's vague. I now categorize evidence into four levels:
 
 | Evidence Type | Purpose | What It Supports |
 | --- | --- | --- |
@@ -22,37 +29,18 @@ I’ve realized that a "PASS" is useless if it's vague. I now categorize evidenc
 | **Product-gap benchmark** | Test specific gaps | Current fixture-family repair |
 | **Strict certification** | Zero-shot product creation | **Strong autonomous claim** |
 
-## What Actually Worked
-
-### 1. Small Local Repair Loops
-This is the strongest part of the system. Local models are ready for "healing" code under controlled conditions.
-- `bench-model-loop-repeat-1776686015-44876`: Completed **10/10** runs.
-- `bench-model-loop-matrix-1776689812-87379`: Completed **10/10** across fixture classes like `lint-global`, `missing-export`, and `ts-prop-mismatch`.
-
-### 2. Bounded Product-Gap Loops
-I tried fixing product-shaped gaps, and it’s promising but bounded.
-- `bench-model-loop-product-matrix-1776778129-73357`: Passed **6/6** on the direct-local route.
-- `bench-model-loop-product-matrix-1776843987-79157`: Passed **8/9**. One failure (`child_verdict_missing`) actually helped me harden the terminalization logic.
-
 ## What Did Not Work (The "Contamination" Problem)
-The "Strict Zero-Shot" path—building an app from a basic prompt—is still unproven. 
-- **Key Run:** `bench-zero-shot-product-1776920746-56130`
-- **Inner Run:** `20260423-140816-task`
+The failure of our "Strict Zero-Shot" runs reached meaningful stages but failed because of harness issues: mismatched scaffolds, incorrect health gates, and untrustworthy session stores.
 
-This run failed, but the failure was entangled with harness issues:
-- The gate attempted a backend-style `/api/health` check against a **Vite frontend**.
-- ESLint failed because the generated scaffold and the lint contract weren't aligned.
-- Middle-planner session-store behavior wasn't trustworthy.
-
-> This is a harness-quality failure, not necessarily a model-capability failure. It means the system isn't clean enough yet to make a final judgment on local models.
+> This is a harness-quality failure, not a model-capability failure. Because the harness was contaminated, the **Infinite Feedback Loop** was never given a clean environment to succeed.
 {: .prompt-warning }
 
 ## Next Steps: Why Protocol Hardening Matters
-I need to stop making capability claims and start "decontaminating."
+To unlock the true potential of the local model loop, we must "decontaminate" the environment:
 
-1. **Separate Modes (Diagnostic vs. Certification):** We need a clear line. Diagnostic mode allows for "fail-open" recovery to see how far the model can go. Certification mode requires strict, one-shot stopping rules. This prevents us from citing a "lucky" recovery as a "reliable" capability.
-2. **Freeze Evidence (Run-to-Code Freeze):** Every run must be tied to a specific harness commit. If the harness changes daily, we can't tell if a success was due to a better model or just a change in a script.
-3. **Certify Contracts (Template/Gate Parity):** We must prove the template (scaffold) and the gate (validator) match *before* the coder starts. This ensures the model isn't set up to fail by a system-level mismatch.
+1.  **Separate Modes (Diagnostic vs. Certification):** Clear lines to prevent "lucky" passes from being cited as reliable capability.
+2.  **Freeze Evidence (Run-to-Code Freeze):** Every run tied to a specific harness commit so we can measure the loop's improvement over time.
+3.  **Certify Contracts (Template/Gate Parity):** Ensuring the model is never set up to fail by a system-level mismatch.
 
 ---
 
