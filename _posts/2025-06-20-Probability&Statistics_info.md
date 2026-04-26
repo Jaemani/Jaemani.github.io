@@ -2,8 +2,13 @@
 title: info
 author: jaeman
 date: 2025-06-20 22:08:00 +0900
-categories: [Mathematics, Probability&Statistics]
-tags: [CS, Mathematics, Probability&Statistics]
+categories:
+  - Mathematics
+  - Probability&Statistics
+tags:
+  - CS
+  - Mathematics
+  - Probability&Statistics
 toc: true
 ---
 

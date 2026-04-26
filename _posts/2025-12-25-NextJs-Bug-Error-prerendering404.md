@@ -2,8 +2,12 @@
 title: Fix NextJs 'prerendering page "/404"', 'error for page /_error', '<Html> shouhld not be imported outside of page/_document' Error
 author: jaeman
 date: 2025-12-25 04:23:00 +0900
-categories: Development, NextJs
-tags: NextJs, React
+categories:
+  - Development
+  - NextJs
+tags:
+  - React
+  - NextJs
 toc: true
 ---
 ## The Error Occurred
